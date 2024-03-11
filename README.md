@@ -140,9 +140,9 @@ If you have questions about data protection, or if you have any requests for res
 
 # Analytics and ad serving partners within our mobile apps
 
-Google - [Privacy Policy](https://policies.google.com/privacy)  
-Vungle - [Privacy Policy](https://vungle.com/privacy/)    
+Google - [Privacy Policy](https://policies.google.com/technologies/partner-sites)  
+Liftoff - [Privacy Policy](https://liftoff.io/privacy-policy/)    
 Adcolony - [Privacy Policy](https://www.adcolony.com/privacy-policy/)    
-Meta - [Privacy Policy](https://www.facebook.com/privacy/policy/)    
+Meta - [Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0)    
 
 
