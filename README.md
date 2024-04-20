@@ -18,13 +18,13 @@ If you have any questions, requests or concerns about data protection, please co
 
 The data you provide us may include:    
 * Contact information (such as name and email address)
-* Profile information (such as profile photo)
 * Your messages to the Service (such as chat logs and player support tickets)
 * Other data you choose to give us (such as data to identify a software defect)
 
 **Data we collect automatically**
+
 * Data about your game progress
-* Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
+* Mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
 * Data about your device, such as device name and operating system, browser type and language
 
 **Data we collect with cookies and similar technologies (see more below)**
