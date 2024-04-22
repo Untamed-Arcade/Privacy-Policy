@@ -103,7 +103,7 @@ You may opt-out of receiving promotional communications, such as marketing email
 
 **Opt-out of targeted advertising**
 
-You can opt-out of personalized advertising on mobile applications by checking the privacy settings of your device and disabling personalized ad recommendations. For more information, see the **‘Analytics and ad serving partners within our mobile apps’** section of this policy.
+You can opt-out of personalized advertising on mobile applications by checking the privacy settings of your device and disabling personalized ad recommendations. If you want to change your choices regarding personalized advertising and privacy, you will find options for it in the service. For example, you can find options to reset your consent information in the settings menus of our games. For more information, see the **‘Analytics and ad serving partners within our mobile apps’** section of this policy.
 
 **Access the personal data we hold about you**
 
