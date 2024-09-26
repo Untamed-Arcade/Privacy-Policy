@@ -21,19 +21,8 @@ The data you provide us may include:
 * Your messages to the Service (such as chat logs and player support tickets)
 * Other data you choose to give us (such as data to identify a software defect)
 
-**Data we collect automatically**
-
-* Data about your game progress
-* Mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
-* Data about your device, such as device name and operating system, browser type and language
-
-**Data we collect with cookies and similar technologies (see more below)**
-* General location data (eg. what country you are from)
-* Data about your use of the Service, such as gameplay data
-
 **Data we collect from our partners**
 * Data we receive if you link a third party tool with the Service (such as Facebook or Google)
-* Demographic data (such as to determine the coarse location of your IP address)
 * Data to fight fraud (such as refund abuse in games or click fraud in advertising)
 * Data from platforms that the games run on (such as to verify payment)
 * Data for advertising and analytics purposes, so we can provide you a better Service
